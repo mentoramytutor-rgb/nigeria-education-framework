@@ -1,0 +1,6 @@
+data/raw/osm/ 
+data/raw/population/ 
+*.pbf 
+*.tif 
+__pycache__/ 
+*.pyc 

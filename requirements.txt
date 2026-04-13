@@ -1,0 +1,12 @@
+streamlit
+geopandas
+pandas
+numpy
+plotly
+matplotlib
+scikit-learn
+tensorflow
+joblib
+scipy
+fiona
+pyogrio
