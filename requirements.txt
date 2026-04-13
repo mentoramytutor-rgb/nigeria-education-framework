@@ -4,9 +4,9 @@ pandas
 numpy
 plotly
 matplotlib
-scikit-learn
-tensorflow
+scikit-learn==1.3.2
 joblib
 scipy
 fiona
 pyogrio
+python-dateutil

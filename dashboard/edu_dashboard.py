@@ -14,7 +14,7 @@ from pathlib import Path
 import warnings
 warnings.filterwarnings("ignore")
 
-G3 = Path(r"C:\Users\OLA\Documents\DIGITAL MAPPING PROJECT\GROUP_THREE_FULL_DELIVERABLES")
+G3 = Path(__file__).resolve().parent.parent
 
 st.set_page_config(
     page_title="Nigeria Education Framework",
